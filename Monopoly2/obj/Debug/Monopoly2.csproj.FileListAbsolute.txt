@@ -1,0 +1,7 @@
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\bin\Debug\Monopoly2.exe.config
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\bin\Debug\Monopoly2.exe
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\bin\Debug\Monopoly2.pdb
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\obj\Debug\Monopoly2.csprojAssemblyReference.cache
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\obj\Debug\Monopoly2.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\obj\Debug\Monopoly2.exe
+C:\Users\Jarek\Documents\Visual Studio 2017\Projects\Monopoly2\Monopoly2\obj\Debug\Monopoly2.pdb
